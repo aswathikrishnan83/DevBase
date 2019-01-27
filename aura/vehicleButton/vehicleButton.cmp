@@ -24,6 +24,7 @@
                 </tr>
             </aura:iteration>
         </table></center>-->
+        <!--test-->
         <p>Name::{!v.vehicles[0].name}</p>
 	
 </aura:component>
