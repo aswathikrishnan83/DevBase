@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authorizeUrl>https://login.salesforce.com/services/oauth2/authorize</authorizeUrl>
+    <consumerKey>3MVG9zlTNB8o8BA14Bn41K_xb0BGHi1Gv23yR5sgAxGxrwdj70kfS9xCxLuA1ri87Tws6_bS5d.x2SuK3yN31</consumerKey>
+    <consumerSecret>2uS08GHAp/ef146smhBFqwGNWRXT1dQL</consumerSecret>
+    <defaultScopes>full</defaultScopes>
+    <friendlyName>AAHerokuTest</friendlyName>
+    <includeOrgIdInIdentifier>false</includeOrgIdInIdentifier>
+    <providerType>OpenIdConnect</providerType>
+    <sendAccessTokenInHeader>true</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <tokenUrl>https://login.salesforce.com/services/oauth2/token</tokenUrl>
+    <userInfoUrl>https://login.salesforce.com/services/oauth2/userinfo</userInfoUrl>
+</AuthProvider>

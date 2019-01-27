@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Positionx</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Positionxs</value>
+    </caseValues>
+    <fields>
+        <label><!-- Functional Area --></label>
+        <name>Functional_Area__c</name>
+        <picklistValues>
+            <masterLabel>IT</masterLabel>
+            <translation><!-- IT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marketing</masterLabel>
+            <translation><!-- Marketing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NON-IT</masterLabel>
+            <translation><!-- NON-IT --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- job responsibilties --></label>
+        <name>job_responsibilties__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

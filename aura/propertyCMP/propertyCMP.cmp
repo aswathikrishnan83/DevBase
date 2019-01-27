@@ -1,0 +1,19 @@
+<aura:component controller="retrieveProperty" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    <aura:attribute name="Property" type="Object"/>
+    <aura:attribute name="columns" type="List"/>
+    <aura:attribute name="data" type="Object"/>
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+   
+    
+ 
+    <div style="height: 300px">
+        
+        <lightning:datatable
+                keyField="Id"
+                data="{!v.Property}"
+                columns="{!v.columns}"
+                onrowaction="{!c.handleRowAction}"
+                hideCheckboxColumn="false"/>
+    </div>
+	
+</aura:component>

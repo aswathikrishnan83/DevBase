@@ -1,0 +1,3 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:appHostable,force:hasRecordId">
+    <lightning:recordForm recordId="{!v.recordId}" objectApiName="Contact" layoutType="Full" mode="view"/>
+</aura:component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>aswathi.krishnan83@gmail.com</contactEmail>
+    <label>Salesforce service provider2</label>
+    <oauthConfig>
+        <callbackUrl>https://www.google.com</callbackUrl>
+        <consumerKey>3MVG9zlTNB8o8BA14Bn41K_xb0KbvOo_Ardy_vTg8eBIEZ3SmcJ46atDT.tvYXgBcr97IzzsvRaf8n36b6zFv</consumerKey>
+        <scopes>Full</scopes>
+    </oauthConfig>
+</ConnectedApp>

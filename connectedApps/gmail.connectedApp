@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>aswathi.krishnan83@gmail.com</contactEmail>
+    <iconUrl>https://login.salesforce.com/logos/Apps/Workday/icon.png</iconUrl>
+    <label>gmail</label>
+    <logoUrl>https://login.salesforce.com/logos/Apps/Workday/logo.png</logoUrl>
+    <oauthConfig>
+        <callbackUrl>https://ashidp-dev-ed.my.salesforce.com/services/authcallback/testgmail</callbackUrl>
+        <consumerKey>3MVG9zlTNB8o8BA14Bn41K_xb0D35T1JLitI1Ig9osAhSttM8_CAx9o49nLEFCu1b9s9ITur9EA==</consumerKey>
+        <idTokenConfig>
+            <idTokenIncludeAttributes>false</idTokenIncludeAttributes>
+            <idTokenIncludeCustomPerms>false</idTokenIncludeCustomPerms>
+            <idTokenIncludeStandardClaims>true</idTokenIncludeStandardClaims>
+            <idTokenValidity>2</idTokenValidity>
+        </idTokenConfig>
+        <scopes>Full</scopes>
+    </oauthConfig>
+    <startUrl>https://ashidp-dev-ed.lightning.force.com</startUrl>
+</ConnectedApp>

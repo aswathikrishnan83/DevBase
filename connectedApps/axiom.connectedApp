@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>aswathi.krishnan83@gmail.com</contactEmail>
+    <label>axiom</label>
+    <oauthConfig>
+        <callbackUrl>https://axiomsso.herokuapp.com/OAuth2HandleAuthCode.action</callbackUrl>
+        <consumerKey>3MVG9zlTNB8o8BA14Bn41K_xb0AfgLv881Oj8WXEnCCc35lNalb8Tf8xqcAHajteXmcYPKF.oj6gyPnZiUWAe</consumerKey>
+        <scopes>Full</scopes>
+    </oauthConfig>
+    <startUrl>https://axiomsso.herokuapp.com/OAuth2WebFlowTester.action</startUrl>
+</ConnectedApp>

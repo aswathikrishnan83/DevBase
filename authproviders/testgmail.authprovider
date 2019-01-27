@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authorizeUrl>https://www.login.salesforce.com/services/oauth2/authorise</authorizeUrl>
+    <consumerKey>3MVG9zlTNB8o8BA14Bn41K_xb0D35T1JLitI1Ig9osAhSttM8_CAx9o49nLEFCu1b9s9ITur9EA==</consumerKey>
+    <consumerSecret>0yHbVe35r435xx8ElpbXY7p1S7xmAvHj</consumerSecret>
+    <friendlyName>testgmail</friendlyName>
+    <includeOrgIdInIdentifier>false</includeOrgIdInIdentifier>
+    <providerType>OpenIdConnect</providerType>
+    <sendAccessTokenInHeader>true</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <tokenUrl>https://www.login.salesforce.com/services/oauth2/token</tokenUrl>
+    <userInfoUrl>https://login.salesforce.com/services/oauth2/userinfo</userInfoUrl>
+</AuthProvider>
