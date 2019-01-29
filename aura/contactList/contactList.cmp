@@ -1,0 +1,17 @@
+<aura:component controller="findAll" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" >
+	<aura:attribute name="contactList" type="Contact[]"/>
+	<aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+    <!--test-->
+	<aura:iteration items="{!v.contactList}" var="con">
+
+		{!con.Name}
+        <!--test-->
+		
+		{!con.Phone}
+	
+
+	</aura:iteration>
+
+	
+
+</aura:component>
