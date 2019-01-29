@@ -18,30 +18,10 @@
     <tabs>standard-Feed</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
-    <tabs>Vehicle__c</tabs>
     <tabs>survey__c</tabs>
-    <tabs>Property__c</tabs>
-    <tabs>position__c</tabs>
-    <tabs>Property_Manager__c</tabs>
-    <tabs>Surveyx__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningSalesConsole_UtilityBar</utilityBar>
     <workspaceConfig>
-        <mappings>
-            <tab>Property_Manager__c</tab>
-        </mappings>
-        <mappings>
-            <tab>Property__c</tab>
-        </mappings>
-        <mappings>
-            <tab>Surveyx__c</tab>
-        </mappings>
-        <mappings>
-            <tab>Vehicle__c</tab>
-        </mappings>
-        <mappings>
-            <tab>position__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

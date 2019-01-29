@@ -9,10 +9,5 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
-    <tabs>Vehicle__c</tabs>
     <tabs>survey__c</tabs>
-    <tabs>Property__c</tabs>
-    <tabs>position__c</tabs>
-    <tabs>Property_Manager__c</tabs>
-    <tabs>Surveyx__c</tabs>
 </CustomApplication>

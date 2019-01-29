@@ -9,7 +9,7 @@
     <navType>Standard</navType>
     <profileActionOverrides>
         <actionName>View</actionName>
-        <content>Contact_Record_Page</content>
+        <content>Contact_Record_Page1</content>
         <formFactor>Large</formFactor>
         <pageOrSobjectType>Contact</pageOrSobjectType>
         <type>Flexipage</type>
@@ -32,11 +32,6 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-Case</tabs>
     <tabs>standard-Forecasting3</tabs>
-    <tabs>Vehicle__c</tabs>
     <tabs>survey__c</tabs>
-    <tabs>Property__c</tabs>
-    <tabs>position__c</tabs>
-    <tabs>Property_Manager__c</tabs>
-    <tabs>Surveyx__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

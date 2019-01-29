@@ -6,11 +6,6 @@
     <label>LightningBolt</label>
     <navType>Standard</navType>
     <tabs>standard-LightningBoltHome</tabs>
-    <tabs>Vehicle__c</tabs>
     <tabs>survey__c</tabs>
-    <tabs>Property__c</tabs>
-    <tabs>position__c</tabs>
-    <tabs>Property_Manager__c</tabs>
-    <tabs>Surveyx__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

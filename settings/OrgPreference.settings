@@ -22,7 +22,7 @@
     </preferences>
     <preferences>
         <settingName>NetworksEnabled</settingName>
-        <settingValue>true</settingValue>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
         <settingName>AnalyticsSharingEnable</settingName>
@@ -45,6 +45,10 @@
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
+        <settingName>Packaging2</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
         <settingName>DeleteMonitoringDataEnabled</settingName>
         <settingValue>false</settingValue>
     </preferences>
@@ -61,8 +65,12 @@
         <settingValue>true</settingValue>
     </preferences>
     <preferences>
-        <settingName>ScratchOrgManagementPref</settingName>
+        <settingName>ExpandedSourceTrackingPref</settingName>
         <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>ScratchOrgManagementPref</settingName>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>RemoveThemeBrandBanner</settingName>
@@ -90,7 +98,7 @@
     </preferences>
     <preferences>
         <settingName>TerritoryManagement2Enable</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>UsersAreLightningOnly</settingName>

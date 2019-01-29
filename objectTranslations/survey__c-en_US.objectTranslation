@@ -6,24 +6,15 @@
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value>survey</value>
+        <value>surveys</value>
     </caseValues>
-    <fields>
-        <label><!-- Contact Email --></label>
-        <name>ContactEmail__c</name>
-        <relationshipLabel><!-- survey --></relationshipLabel>
-    </fields>
-    <fields>
-        <label><!-- Contact Email --></label>
-        <name>Contact_Email__c</name>
-    </fields>
     <fields>
         <label><!-- Phone --></label>
         <name>Phone__c</name>
     </fields>
     <fields>
-        <label><!-- test --></label>
-        <name>test__c</name>
+        <label><!-- email --></label>
+        <name>email__c</name>
     </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
